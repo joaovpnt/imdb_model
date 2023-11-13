@@ -57,6 +57,6 @@ A seguir, são apresentados os modelos utilizados no contexto da análise de sen
 
 ## Imagens
 
-![Distribuição 1](imagem1.png)
-![Wordcloud](wordcloud.png)
+![Distribuição 1](https://github.com/joaovpnt/imdb_model/blob/main/images/distrib.png)
+![Wordcloud](https://github.com/joaovpnt/imdb_model/blob/main/images/wordcloud.png)
 
